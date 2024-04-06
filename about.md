@@ -3,16 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+![](/assets/images/db.png "Me in a photo!")
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>Hi, you have reached a page that summarizes my professional career.<br>
+I hope you find it interesting enough to reach out to me, even if it is for a brief chat!</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<h2>Academics</h2>
+- (2021-23) Masters in Technology (M.Tech.) in Artificial Intelligence - *Indian Institute of Science, Bangalore, India*.
+- (2003-07) Bachelor of Engineering (B.E.) in Electronics and Communication - *Birla Institute of Technology, Mesra, Ranchi, India*.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<h2>Professional experience</h2>
+- (2023-) Staff Research Engineer - *Netradyne Technology Pvt. Ltd., Bangalore, India*.
+- (2020-21) Principal Engineer - *Harman International Industries, Bangalore, India*.
+- (2015-20) Staff Engineer - *Audience Communications (Knowles, Inc), Bangalore, India*.
+- (2009-15) Scientist - *Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India*.
+- (2007-09) Associate Software Engineer - *Computer Sciences Corporation, Indore, India*.

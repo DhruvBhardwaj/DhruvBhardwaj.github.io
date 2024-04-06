@@ -16,12 +16,16 @@
 title: Dhruv Bhardwaj's homepage
 email: dhruv.bharadwaj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, you have reached my webpage! This page contains details about my professional career and a few projects/learinings I have picked up on the job.
+  Hi, you have reached my webpage! This page contains details about my professional career and a few projects/learnings I have picked up on the job.
   Hope they are informative.
 domain: dhruvbhardwaj.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dhruvbhardwaj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
 
 # Build settings
 markdown: kramdown
