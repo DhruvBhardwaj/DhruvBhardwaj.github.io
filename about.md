@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](/assets/images/db.png "Me in a photo!")
+
 
 <h2>Professional experience</h2>
 - (2023-present) Staff Research Engineer - *Netradyne Technology Pvt. Ltd., Bangalore, India*.
