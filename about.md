@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
 
 <h2>Professional experience</h2>
-- (2023-present) Staff Research Engineer - *Netradyne Technology Pvt. Ltd., Bangalore, India*.
+- (2023-present) Staff Research Engineer - *Netradyne Technology Pvt. Ltd., Bangalore, India*.<br>[details](/resume/sre-netradyne)
 - (2020-21) Principal Engineer - *Harman International Industries, Bangalore, India*.
 - (2015-20) Staff Engineer - *Audience Communications (Knowles, Inc), Bangalore, India*.
 - (2009-15) Scientist - *Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India*.
