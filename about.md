@@ -6,19 +6,20 @@ permalink: /about/
 
 
 <h2>Professional experience</h2>
-- (2023-present) Staff Research Engineer - *Netradyne Technology Pvt. Ltd., Bangalore, India*.<br>[details](/resume/sre-netradyne)
-- (2020-21) Principal Engineer - *Harman International Industries, Bangalore, India*.
-- (2015-20) Staff Engineer - *Audience Communications (Knowles, Inc), Bangalore, India*.
-- (2009-15) Scientist - *Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India*.
-- (2007-09) Associate Software Engineer - *Computer Sciences Corporation, Indore, India*.
+(please click on the role for details)
+- Netradyne Technology Pvt. Ltd., Bangalore, India (2023-present)<br>[*Staff Research Engineer*](/resume/sre-netradyne)
+- Harman International Industries, Bangalore, India (2020-21) <br>[*Principal Engineer*](/resume/pe-harman)
+- Audience Communications (Knowles, Inc), Bangalore, India (2015-20) <br>[*Staff Engineer*]()
+- Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India (2009-15) <br>[*Scientist*]()
+- Computer Sciences Corporation, Indore, India (2007-09) <br>[*Associate Software Engineer*]()
 
 <h2>Academics</h2>
-- (2021-23) Masters in Technology (M.Tech.) in Artificial Intelligence - *Indian Institute of Science, Bangalore, India*.
-- (2003-07) Bachelor of Engineering (B.E.) in Electronics and Communication - *Birla Institute of Technology, Mesra, Ranchi, India*.
+- Indian Institute of Science, Bangalore, India (2021-23) <br>*M.Tech. (Artificial Intelligence)*
+- Birla Institute of Technology, Mesra, Ranchi, India (2003-07) <br>*B.E. (Electronics and Communication)*
 
 <h2>Skillset</h2>
 - **Foundational/Theory** - Deep Learning, Self-supervised Learning, Computer Vision, Image Processing, Statistical Detection and Estimation, Signal Processing, Beamforming, Speech Processing, Radar Signal Processing.
-- **Software** - C, Python, MATLAB.
+- **Languages** - C, Python, MATLAB.
 - **Tools/Frameworks** - Visual Studio, VS Code, PyTorch, Git.
 
 <h2>Projects</h2>
