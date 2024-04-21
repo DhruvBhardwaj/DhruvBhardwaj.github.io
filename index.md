@@ -16,5 +16,5 @@ I hope you find it interesting enough to reach out to me, even if it is for a br
 <br>
 <br>
 Please proceed to the following:
-- [About](/about) to see a summary of my career.
+- [About me](/about) to see a summary of my career.
 - [Projects](/projects) to see a list of academic and professional projects I have worked on.

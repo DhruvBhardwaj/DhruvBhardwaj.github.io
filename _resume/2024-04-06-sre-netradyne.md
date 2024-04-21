@@ -5,7 +5,10 @@ date:   2024-04-06 00:00:22 +0530
 categories: resume details
 ---
 <h2>Staff Research Engineer</h2>
-<h4>Netradyne Technology Pvt. Ltd.</h4>
+<h4>
+<a href="https://www.netradyne.com/">Netradyne Technology Pvt. Ltd.</a>
+
+</h4>
 
 At Netradyne, I am (loosely) responsible for:
 - Developing systems and algorithms for new products/initiatives.

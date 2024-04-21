@@ -9,7 +9,7 @@ permalink: /about/
 (please click on the role for details)
 - Netradyne Technology Pvt. Ltd., Bangalore, India (2023-present)<br>[*Staff Research Engineer*](/resume/sre-netradyne)
 - Harman International Industries, Bangalore, India (2020-21) <br>[*Principal Engineer*](/resume/pe-harman)
-- Audience Communications (Knowles, Inc), Bangalore, India (2015-20) <br>[*Staff Engineer*]()
+- Audience Communications (Knowles, Inc), Bangalore, India (2015-20) <br>[*Staff Engineer*](/resume/se-audience)
 - Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India (2009-15) <br>[*Scientist*]()
 - Computer Sciences Corporation, Indore, India (2007-09) <br>[*Associate Software Engineer*]()
 
