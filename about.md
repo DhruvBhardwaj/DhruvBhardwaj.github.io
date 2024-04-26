@@ -18,9 +18,9 @@ permalink: /about/
 - Birla Institute of Technology, Mesra, Ranchi, India (2003-07) <br>*B.E. (Electronics and Communication)*
 
 <h2>Skillset</h2>
-- **Foundational/Theory** - Deep Learning, Self-supervised Learning, Computer Vision, Image Processing, Statistical Detection and Estimation, Signal Processing, Beamforming, Speech Processing, Radar Signal Processing.
-- **Languages** - C, Python, MATLAB.
-- **Tools/Frameworks** - Visual Studio, VS Code, PyTorch, Git.
+- **Foundational/Theory**: Deep Learning, Self-supervised Learning, Computer Vision, Image Processing, Statistical Detection and Estimation, Signal Processing, Beamforming, Speech Processing, Radar Signal Processing.
+- **Languages**: C, Python, MATLAB.
+- **Tools/Frameworks**: Visual Studio, VS Code, PyTorch, Git.
 
 <h2>Projects</h2>
 (these pages are under construction, request your patience)
