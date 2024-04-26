@@ -10,7 +10,7 @@ permalink: /about/
 - Netradyne Technology Pvt. Ltd., Bangalore, India (2023-present)<br>[*Staff Research Engineer*](/resume/sre-netradyne)
 - Harman International Industries, Bangalore, India (2020-21) <br>[*Principal Engineer*](/resume/pe-harman)
 - Audience Communications (Knowles, Inc), Bangalore, India (2015-20) <br>[*Staff Engineer*](/resume/se-audience)
-- Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India (2009-15) <br>[*Scientist*]()
+- Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India (2009-15) <br>[*Scientist*](/resume/sc-drdo)
 - Computer Sciences Corporation, Indore, India (2007-09) <br>[*Associate Software Engineer*]()
 
 <h2>Academics</h2>
@@ -23,6 +23,7 @@ permalink: /about/
 - **Tools/Frameworks** - Visual Studio, VS Code, PyTorch, Git.
 
 <h2>Projects</h2>
+(these pages are under construction, request your patience)
 - Image Quality Assesment using Vision Language Models (M.Tech. Thesis) [post](/projects/image-quality-assessment-using-vision-language-models) \| [github]()
 - Variational Auto-Encoders [post]() \| [github](https://github.com/DhruvBhardwaj/variational_ae)
 - Diffusion models [post]() \| [github]()
