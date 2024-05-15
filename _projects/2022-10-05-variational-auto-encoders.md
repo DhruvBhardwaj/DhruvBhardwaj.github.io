@@ -12,4 +12,6 @@ The concept to be grasped can be seen in multiple ways. One is the *generative* 
 
 VAEs are variational because the derivation of the VAE objective involves [Calculus of Variations](https://en.wikipedia.org/wiki/Calculus_of_variations). VAEs are AutoEncoders because the final objective involves the task of reconstructing the input.<br> 
 
-Note the relationship of VAEs with **unsupervised/self-supervised learning**, we have un-labelled data samples - and we are interested in the properties of those samples themselves (specifically the sample distribution). Specifically, we want to *summarize* the samples with a latent vector, and possibly generate new samples by using new latent vectors.
+Note the relationship of VAEs with **unsupervised/self-supervised learning**, we have un-labelled data samples - and we are interested in the properties of those samples themselves (specifically the sample distribution). We want to *summarize* the samples with a latent vector, and possibly generate new samples by using new latent vectors.
+
+[Github implementation](https://github.com/DhruvBhardwaj/variational_ae)

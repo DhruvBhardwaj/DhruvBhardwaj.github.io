@@ -25,7 +25,7 @@ permalink: /about/
 <h2>Projects</h2>
 (these pages are under construction, request your patience)
 - Image Quality Assesment using Vision Language Models (M.Tech. Thesis) [post](/projects/image-quality-assessment-using-vision-language-models) \| [github]()
-- Variational Auto-Encoders [post]() \| [github](https://github.com/DhruvBhardwaj/variational_ae)
+- Variational Auto-Encoders [post](/projects/variational-auto-encoders) \| [github](https://github.com/DhruvBhardwaj/variational_ae)
 - Diffusion models [post]() \| [github]()
 - Few Shot Learning [post]() \| [github]()
 - Speaker Verification [post]() \| [github]()
