@@ -27,7 +27,7 @@ permalink: /about/
 - Image Quality Assesment using Vision Language Models (M.Tech. Thesis) [post](/projects/image-quality-assessment-using-vision-language-models)
 - Variational Auto-Encoders [post](/projects/variational-auto-encoders) \| [github](https://github.com/DhruvBhardwaj/variational_ae)
 - Diffusion models 
-- Few Shot Learning [github](https://github.com/DhruvBhardwaj/few_shot_learning)
+- Few Shot Learning [post](/projects/few-shot-learning) \| [github](https://github.com/DhruvBhardwaj/few_shot_learning)
 - Speaker Verification 
 - Object detection using CNNs
 
