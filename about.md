@@ -24,12 +24,12 @@ permalink: /about/
 
 <h2>Projects</h2>
 (these pages are under construction, request your patience)
-- Image Quality Assesment using Vision Language Models (M.Tech. Thesis) [post](/projects/image-quality-assessment-using-vision-language-models) \| [github]()
+- Image Quality Assesment using Vision Language Models (M.Tech. Thesis) [post](/projects/image-quality-assessment-using-vision-language-models)
 - Variational Auto-Encoders [post](/projects/variational-auto-encoders) \| [github](https://github.com/DhruvBhardwaj/variational_ae)
-- Diffusion models [post]() \| [github]()
-- Few Shot Learning [post]() \| [github]()
-- Speaker Verification [post]() \| [github]()
-- Object detection using CNNs [post]() \| [github]()
+- Diffusion models 
+- Few Shot Learning [github](https://github.com/DhruvBhardwaj/few_shot_learning)
+- Speaker Verification 
+- Object detection using CNNs
 
 <h2>Patents</h2>
 - Acoustic-aware voice interface: [WO2019246314A1](https://patents.google.com/patent/WO2019246314A1/en?oq=WO2019246314A1)
