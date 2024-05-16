@@ -25,6 +25,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title
+  papers:
+    output: true
+    permalink: /:collection/:title
   resume:
     output: true
     permalink: /:collection/:title

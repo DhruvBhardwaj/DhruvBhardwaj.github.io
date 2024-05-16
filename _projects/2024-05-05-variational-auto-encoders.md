@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "variational autoencoders"
-date:   2022-10-05 16:00:22 +0530
+date:   2024-05-05 16:00:22 +0530
 categories: generative ai
 ---
 {%- include mathjax.html -%}

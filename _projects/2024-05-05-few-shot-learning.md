@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "few shot learning"
-date:   2023-10-05 16:00:22 +0530
+date:   2024-05-05 16:00:22 +0530
 categories: few shot learning
 ---
 {%- include mathjax.html -%}
