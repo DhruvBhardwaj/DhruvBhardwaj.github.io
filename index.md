@@ -18,3 +18,4 @@ I hope you find it interesting enough to reach out to me, even if it is for a br
 Please proceed to the following:
 - [About me](/about) to see a summary of my career.
 - [Projects](/projects) to see a list of academic and professional projects I have worked on.
+- [Readings](/readings) to see a summary (and some demo code) of papers that I found interesting.
