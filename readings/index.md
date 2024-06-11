@@ -7,7 +7,7 @@ permalink: /readings/
   <h4>
     {{ paper.title }}
 
-    (<a style="font-size:0.95em;" href="{{ paper.url }}">summary</a> | <a style="font-size:0.95em;" href="https://github.com/DhruvBhardwaj/noise_contrastive_estimation">demo</a>)
+    (<a style="font-size:0.95em;" href="{{ paper.url }}">summary</a>)
       
   </h4>
 {% endfor %}
