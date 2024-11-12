@@ -7,7 +7,8 @@ permalink: /about/
 
 <h2>Professional experience</h2>
 (please click on the role for details)
-- Netradyne Technology Pvt. Ltd., Bangalore, India (2023-present)<br>[*Staff Research Engineer*](/resume/sre-netradyne)
+- Amazon India, Bangalore, India (2023-2024)<br>[*Applied Scientist II*](/resume/as2-amazon)
+- Netradyne Technology Pvt. Ltd., Bangalore, India (2023-2024)<br>[*Staff Research Engineer*](/resume/sre-netradyne)
 - Harman International Industries, Bangalore, India (2020-21) <br>[*Principal Engineer*](/resume/pe-harman)
 - Audience Communications (Knowles, Inc), Bangalore, India (2015-20) <br>[*Staff Engineer*](/resume/se-audience)
 - Electronics and Radar Development Establishment (LRDE), DRDO, Bangalore, India (2009-15) <br>[*Scientist*](/resume/sc-drdo)

@@ -10,14 +10,15 @@ categories: resume details
 
 </h4>
 
-At Netradyne, I am (loosely) responsible for:
+At Netradyne, I was (loosely) responsible for:
 - Developing systems and algorithms for new products/initiatives.
 - Design and experiment deep learning based solutions that are relevant to our problems.
 - Research current literature for techniques which may be relevant to our products.
 - Mentor junior colleagues in day-to-day technical work.
 <br>
 
-My current work focuses on **driver drowsiness detection**. For this, I am working on the following:
+My current work focuses on **driver drowsiness detection**. For this, I am worked on the following:
+- Details of the resulting product are here: [Driver Drowsiness with DMS Sensor](https://www.netradyne.com/products/driver-drowsiness-with-dms-sensor)
 - Identify and build deep learning models to extract eye features which can be used to detect drowsiness.
 - Develop classical signal processing algorithms with known drowsy markers, that can be used in real-time detection.
 - Manage lab and field collected data and analyse it.
