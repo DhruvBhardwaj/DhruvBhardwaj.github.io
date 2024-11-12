@@ -17,7 +17,7 @@ At Netradyne, I was (loosely) responsible for:
 - Mentor junior colleagues in day-to-day technical work.
 <br>
 
-My current work focuses on **driver drowsiness detection**. For this, I am worked on the following:
+My current work focuses on **driver drowsiness detection**. For this, I worked on the following:
 - Details of the resulting product are here: [Driver Drowsiness with DMS Sensor](https://www.netradyne.com/products/driver-drowsiness-with-dms-sensor)
 - Identify and build deep learning models to extract eye features which can be used to detect drowsiness.
 - Develop classical signal processing algorithms with known drowsy markers, that can be used in real-time detection.
